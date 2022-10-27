@@ -1,0 +1,27 @@
+body{
+    background-color: #29272480;
+    padding:50px 100px;
+}
+h1{
+    text-align: center;
+    /* margin-top: 10px; */
+    padding: 10px;
+    color: blueviolet;
+    margin-bottom: 0px;
+    background-color: black;
+
+}
+textarea{
+    width: 99%;
+    height: 373px;
+    font-size: x-large;
+}
+p{
+    text-align: center;
+    padding: 10px;
+    color: blueviolet;
+    margin-bottom: 0px;
+    background-color: black;
+    margin-top: 0px;
+    font-size: xx-large;
+}
